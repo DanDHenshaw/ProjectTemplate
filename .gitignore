@@ -10,5 +10,9 @@ Binaries/
 *.log
 Makefile
 
+# Doxygen
+Documentation/html
+Documentation/latex
+
 # Exclude
 !Vendor/Binaries
